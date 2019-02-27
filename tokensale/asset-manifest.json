@@ -1,0 +1,21 @@
+{
+  "main.css": "static/css/main.bf5c31cb.css",
+  "main.css.map": "static/css/main.bf5c31cb.css.map",
+  "main.js": "static/js/main.2ff4fec3.js",
+  "main.js.map": "static/js/main.2ff4fec3.js.map",
+  "static/media/bg.png": "static/media/bg.6c260152.png",
+  "static/media/delete.png": "static/media/delete.303b43dd.png",
+  "static/media/delete@2x.png": "static/media/delete@2x.a567f383.png",
+  "static/media/fontawesome-webfont.eot?v=4.7.0": "static/media/fontawesome-webfont.674f50d2.eot",
+  "static/media/fontawesome-webfont.svg?v=4.7.0": "static/media/fontawesome-webfont.912ec66d.svg",
+  "static/media/fontawesome-webfont.ttf?v=4.7.0": "static/media/fontawesome-webfont.b06871f2.ttf",
+  "static/media/fontawesome-webfont.woff2?v=4.7.0": "static/media/fontawesome-webfont.af7ae505.woff2",
+  "static/media/fontawesome-webfont.woff?v=4.7.0": "static/media/fontawesome-webfont.fee66e71.woff",
+  "static/media/loading.png": "static/media/loading.938a017b.png",
+  "static/media/loading@2x.png": "static/media/loading@2x.48b1e766.png",
+  "static/media/logos.png": "static/media/logos.aa8e7cdb.png",
+  "static/media/logos@2x.png": "static/media/logos@2x.da3bf923.png",
+  "static/media/payment-success@2x.png": "static/media/payment-success@2x.080a0110.png",
+  "static/media/step-icons.png": "static/media/step-icons.1420524b.png",
+  "static/media/step-icons@2x.png": "static/media/step-icons@2x.fa7627cc.png"
+}
